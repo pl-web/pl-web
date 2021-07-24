@@ -1,6 +1,9 @@
 ### Hi there 👋
-Life is reading a book.
+
+##### Life is reading a book.
+
 ![bird](./bird.png)
+
 + 🌱 javascript / css ... more.
 + 🍑 programmer and designer.
 + 🎈 read a book / art / basic sciences.
