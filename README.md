@@ -1,8 +1,7 @@
 ### Hi there 👋
-
 Life is reading a book.
 
-![bird](./bird.png) 
+![bird](./bird.png) My-Bird
 
 + 🌱 javascript / css ... more.
 + 🍑 programmer and designer.
