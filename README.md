@@ -5,8 +5,10 @@
 ![bird](./bird.png)
 
 + 🌱 javascript / css ... more.
++ 🐬 teacher and student.
 + 🍑 programmer and designer.
-+ 🎈 read a book / art / basic sciences.
++ 🌜 art and science. 
++ 🎈 read a book, go to a place, make a home.
 + 📫 hnature@126.com.
 + ⭐ physics mathematics universe space.
 
