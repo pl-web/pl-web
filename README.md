@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### Life is reading a book.
+##### Life is reading a book, and a bird is always with me.
 
 ![bird](./bird.png)
 
